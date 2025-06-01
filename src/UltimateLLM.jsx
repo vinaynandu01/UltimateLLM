@@ -494,7 +494,7 @@ const UltimateLLM = () => {
 
         .chat-history h3 {
           margin: 0 0 16px 0;
-          font-size: 20px;
+          font-size: 16px;
           font-weight: 500;
         }
 
@@ -526,7 +526,7 @@ const UltimateLLM = () => {
           padding: 12px;
           border-radius: 6px;
           cursor: pointer;
-          font-size: 17.5px;
+          font-size: 15px;
           transition: background-color 0.2s;
           margin-bottom: 4px;
           position: relative;
